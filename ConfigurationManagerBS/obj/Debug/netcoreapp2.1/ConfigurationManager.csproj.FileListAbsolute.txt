@@ -15,3 +15,13 @@ C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug
 C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfo.cs
 C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.dll
 C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.csprojAssemblyReference.cache
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.deps.json
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.csprojAssemblyReference.cache
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfoInputs.cache
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfo.cs
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\DTAHAYSIT\Documents\GitHub\ConfigReaderExample\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.pdb

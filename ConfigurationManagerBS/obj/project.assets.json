@@ -4283,11 +4283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManagerBS\\ConfigurationManager.csproj",
+      "projectUniqueName": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManagerBS\\ConfigurationManager.csproj",
       "projectName": "ConfigurationManager",
-      "projectPath": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManagerBS\\ConfigurationManager.csproj",
+      "projectPath": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManagerBS\\ConfigurationManager.csproj",
       "packagesPath": "C:\\Users\\DTAHAYSIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManagerBS\\obj\\",
+      "outputPath": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManagerBS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

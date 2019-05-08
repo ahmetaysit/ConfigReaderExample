@@ -7,7 +7,9 @@ namespace ConfigurationManager.Interfaces
 {
     public interface IConfigProvider
     {
-        IEnumerable<Config> GetAll();
+        List<Config> GetAll();
         List<Config> GetByApplication(string applicationName);
+        Config Add(Config config);
+        Config Delete(Config config);
     }
 }

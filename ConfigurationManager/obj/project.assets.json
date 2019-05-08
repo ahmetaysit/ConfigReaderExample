@@ -4301,11 +4301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManager\\ConfigurationManagerExample.csproj",
+      "projectUniqueName": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManager\\ConfigurationManagerExample.csproj",
       "projectName": "ConfigurationManagerExample",
-      "projectPath": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManager\\ConfigurationManagerExample.csproj",
+      "projectPath": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManager\\ConfigurationManagerExample.csproj",
       "packagesPath": "C:\\Users\\DTAHAYSIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManager\\obj\\",
+      "outputPath": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4324,8 +4324,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManagerBS\\ConfigurationManager.csproj": {
-              "projectPath": "C:\\Users\\DTAHAYSIT\\Desktop\\ConfigurationManager\\ConfigurationManagerBS\\ConfigurationManager.csproj"
+            "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManagerBS\\ConfigurationManager.csproj": {
+              "projectPath": "C:\\Users\\DTAHAYSIT\\Documents\\GitHub\\ConfigReaderExample\\ConfigurationManagerBS\\ConfigurationManager.csproj"
             }
           }
         }
