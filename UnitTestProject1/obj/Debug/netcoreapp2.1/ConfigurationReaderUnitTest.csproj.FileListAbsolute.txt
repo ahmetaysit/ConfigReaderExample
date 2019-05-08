@@ -1,0 +1,17 @@
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.deps.json
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.runtimeconfig.json
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.runtimeconfig.dev.json
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.pdb
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.csprojAssemblyReference.cache
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.AssemblyInfoInputs.cache
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.AssemblyInfo.cs
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.csproj.CopyComplete
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\UnitTestProject1\obj\Debug\netcoreapp2.1\ConfigurationReaderUnitTest.pdb

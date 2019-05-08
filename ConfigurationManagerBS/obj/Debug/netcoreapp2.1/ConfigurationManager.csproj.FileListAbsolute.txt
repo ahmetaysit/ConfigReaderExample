@@ -1,0 +1,17 @@
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.deps.json
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.csprojResolveAssemblyReference.cache
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfoInputs.cache
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfo.cs
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\tugbaysit\source\repos\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.deps.json
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\bin\Debug\netcoreapp2.1\ConfigurationManager.pdb
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfoInputs.cache
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.AssemblyInfo.cs
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.dll
+C:\Users\DTAHAYSIT\Desktop\ConfigurationManager\ConfigurationManagerBS\obj\Debug\netcoreapp2.1\ConfigurationManager.pdb
